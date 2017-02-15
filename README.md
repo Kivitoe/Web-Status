@@ -1,6 +1,6 @@
 # Web-Status
 
-![Screenshot](https://a.fsdn.com/con/app/proj/web-status/screenshots/webstat.PNG/1)
+![Screenshot](https://a.fsdn.com/con/app/proj/web-status/screenshots/webstat2.PNG/1)
 
 A tool for getting IP addresses from domains
 
@@ -10,7 +10,9 @@ View the sourceforge page for more information about Web Status and downloads: h
 
 ## BINARY DOWNLOADS
 
+### 0.2.1B
 
+Installer (514 KB): https://sourceforge.net/projects/web-status/files/0.2.1b/ws-setup.exe/download
 
 ### 0.1.1B
 
